@@ -1,4 +1,4 @@
-Prashant Sharma — Personal Portfolio
+## Prashant Sharma — Personal Portfolio
 
 This is my personal portfolio website where I showcase who I am, what I build, and the skills I’m developing as a frontend developer. I designed and built everything from scratch using pure HTML, CSS, and JavaScript — no frameworks, no heavy tools — just clean, simple web technologies.
 
@@ -8,7 +8,7 @@ Live Site: https://prashant4840.github.io/myportfolio.info/
 
 ⸻
 
-Tech Stack
+## Tech Stack
 
 Core Technologies
 	•	HTML5 — For structuring content in a clear and semantic way
@@ -26,7 +26,7 @@ Hosting & Deployment
 
 ⸻
 
-Contact --
+## Contact --
 
 If you’d like to connect, collaborate, or just say hello — feel free to reach out through the links on the live site.
 
